@@ -7,6 +7,7 @@ Welcome to my first capstone project, built using only HTML. This project showca
 
 *View live demo from here:*
  https://ahmed-progs.github.io/1st-Capstion-Prog/
+ 
 *About the Project*
 
 This static web page is a personal portfolio developed using fundamental HTML skills. It's structured to demonstrate proficiency in writing semantic tags, organizing content, and creating a readable, accessible layout without using CSS or JavaScript.
