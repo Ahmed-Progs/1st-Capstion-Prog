@@ -12,6 +12,7 @@ Welcome to my first capstone project, built using only HTML. This project showca
 
 This static web page is a personal portfolio developed using fundamental HTML skills. It's structured to demonstrate proficiency in writing semantic tags, organizing content, and creating a readable, accessible layout without using CSS or JavaScript.
 
+
 *Project Sections*
 
 Header: Name and profile picture
@@ -30,6 +31,7 @@ Interests: Personal hobbies and passions
 
 Contact Me: Internal link to contact page (HTML)
 
+
 *Tech Stack*
 
 HTML5 (no CSS or JavaScript)
@@ -46,6 +48,7 @@ Data Science & Analytics – HP LIFE
 
 Advanced Social Media Strategy – HP LIFE
 
+
 *Author*
 
 Name: Ahmed Raza
@@ -53,9 +56,11 @@ Role: Computer Science Student, Web Developer & Graphic Designer
 University: University of Agriculture, Faisalabad
 Graduation Year: 2028
 
+
 *Contact*
 
 If you'd like to collaborate, connect, or just say hello, feel free to visit the "Contact Me" section of the project.
+
 
 *Note*
 
